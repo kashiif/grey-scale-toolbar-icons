@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet href="chrome://grayscale-toolbar-icons/skin/skin.css" type="text/css"?>
+
+<overlay id="grayscale-toolbar-icons"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	
+</overlay>

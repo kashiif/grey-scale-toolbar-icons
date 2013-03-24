@@ -1,0 +1,15 @@
+#PlacesToolbarItems toolbarbutton.bookmark-item .toolbarbutton-icon {
+    filter: url(filter.svg#grayscale);
+}
+
+#PlacesToolbarItems toolbarbutton.bookmark-item:hover .toolbarbutton-icon {
+    filter: none;
+}
+
+#PlacesChevronPopup menuitem.bookmark-item image {
+    filter: url(filter.svg#grayscale);
+}
+
+#PlacesChevronPopup menuitem.bookmark-item:hover image {
+    filter: none;
+}
