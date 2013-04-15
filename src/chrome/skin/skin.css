@@ -1,15 +1,19 @@
-#PlacesToolbarItems toolbarbutton.bookmark-item .toolbarbutton-icon {
+#PlacesChevronPopup menuitem.bookmark-item image, #PlacesChevronPopup menu.bookmark-item image {
     filter: url(filter.svg#grayscale);
 }
 
-#PlacesToolbarItems toolbarbutton.bookmark-item:hover .toolbarbutton-icon {
+#PlacesChevronPopup menuitem.bookmark-item:hover image, #PlacesChevronPopup menu.bookmark-item:hover image {
     filter: none;
 }
 
-#PlacesChevronPopup menuitem.bookmark-item image {
+toolbar toolbarbutton .toolbarbutton-icon {
     filter: url(filter.svg#grayscale);
 }
 
-#PlacesChevronPopup menuitem.bookmark-item:hover image {
+toolbar toolbarbutton:hover .toolbarbutton-icon {
+    filter: none;
+}
+
+toolbar.grayscale-disabled toolbarbutton .toolbarbutton-icon {
     filter: none;
 }

@@ -1,0 +1,33 @@
+{
+  "name": "grey-scale-toolbar-icons",
+  "title": "Greyscale Toolbar Icons",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "http://www.kashiif.com/firefox-extensions/gray-scale-toolbar-icons/",
+  "author": {
+    "name": "Kashif Iqbal Khan",
+    "email": "kashiif@gmail.com",
+    "url": "www.kashiif.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kashiif/grey-scale-toolbar-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kashiif/grey-scale-toolbar-icons/issues"
+  },
+  "licenses": [
+    {
+      "type": "none",
+      "url": "/blob/master/LICENSE-none"
+    }
+  ],
+  "dependencies": {},
+  "keywords": [],
+  "devDependencies": {
+    "grunt-contrib-copy": ">=0.4.0",
+    "grunt-string-replace": "~0.2.3",
+    "grunt-contrib-compress": "0.4.1",
+    "grunt-bump": "0.0.2"
+  }
+}
