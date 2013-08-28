@@ -17,7 +17,7 @@ module.exports = function(grunt) {
 		prod: {
 			files: [
 				{expand: true, cwd: 'src/', src : ['chrome.manifest' ],  dest: distdir },
-				{expand: true, cwd: 'src/', src : ['**/*.css','**/*.js','**/*.jsm', '**/*.xul', '**/*.png','**/*.jpg'],  dest: distdir },
+				{expand: true, cwd: 'src/', src : ['**/*.css','**/*.svg', '**/*.js','**/*.jsm', '**/*.xul', '**/*.png','**/*.jpg'],  dest: distdir },
 				{expand: true, cwd: 'src/', src : ['**/*.dtd', '!**/*_amo_*.dtd', '**/*.properties'],  dest: distdir },
 			]
 		},
