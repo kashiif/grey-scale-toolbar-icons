@@ -13,7 +13,7 @@ Grey Scale Toolbar Icons is an extension for Firefox. To know more, see [extensi
 2. Install GruntJS by typing the following command:
 
 ```
-npm install -g grunt
+npm install grunt
 ```
 
 3. Run the following command in the repository root directory to install all the required grunt plugins: 
