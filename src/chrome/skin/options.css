@@ -1,0 +1,8 @@
+/*custom style for editable checkbox column */
+#grayscale-toolbar-icons-colselect {width:25px;}
+
+.treecol-image {
+  display:none;
+}
+treechildren::-moz-tree-checkbox(green-check-box) { background: url('gr_custom-inputs.png') 0 -1px no-repeat; }
+treechildren::-moz-tree-checkbox(green-check-box, checked) { list-style-image:none; background-position: 0 -81px; }

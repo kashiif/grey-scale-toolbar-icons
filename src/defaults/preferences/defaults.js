@@ -1,1 +1,1 @@
-pref('extensions.grayscaletoolbaricons.disabletoolbars', 'PersonalToolbar'); // contains comma-separated list of ids of toolbars
+pref('extensions.grayscaletoolbaricons.disabletoolbars', ''); // contains comma-separated list of ids of toolbars

@@ -1,0 +1,5 @@
+﻿<!ENTITY grayscaletoolbaricons.options.windowtitle	"Gray Scale Toolbar Icons Options">
+<!ENTITY grayscaletoolbaricons.options.groupboxcaption	"Select Toolbars To Ignore">
+<!ENTITY grayscaletoolbaricons.options.colheadertoolbarname	"Toolbar Name">
+<!ENTITY grayscaletoolbaricons.options.colheaderselect	"Select">
+

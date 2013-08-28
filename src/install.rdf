@@ -4,12 +4,13 @@
 		<Description about="urn:mozilla:install-manifest">
     <em:id>grayscaletoolbaricons@kashiif.com</em:id>
     <em:type>2</em:type>
-    <em:name>Gray Scale Toolbar Icons</em:name>
+    <em:name>0 Gray Scale Toolbar Icons</em:name>
     <em:version>__version__</em:version>
     <em:creator>Kashif Iqbal Khan</em:creator>
+ 	<em:optionsURL>chrome://grayscale-toolbar-icons/content/options.xul</em:optionsURL>
     <em:description>Destaurates the bookmarks toolbar icons.</em:description>
- 	  <em:iconURL>chrome://grayscale-toolbar-icons/skin/icon.png</em:iconURL>  
-	  <em:icon64URL>chrome://grayscale-toolbar-icons/skin/icon.png</em:icon64URL>  
+ 	<em:iconURL>chrome://grayscale-toolbar-icons/skin/icon.png</em:iconURL>  
+	<em:icon64URL>chrome://grayscale-toolbar-icons/skin/icon.png</em:icon64URL>  
 		
     <!-- firefox -->
     <em:targetApplication>
